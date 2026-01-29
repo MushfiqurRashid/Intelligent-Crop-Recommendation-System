@@ -343,6 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaborations:
 
 - GitHub: [@MushfiqurRashid](https://github.com/MushfiqurRashid)
+- Email: mushfiqur.tech@gmail.com
 - Project Link: [https://github.com/MushfiqurRashid/Intelligent-Crop-Recommendation-System](https://github.com/MushfiqurRashid/Intelligent-Crop-Recommendation-System)
 
 ---
